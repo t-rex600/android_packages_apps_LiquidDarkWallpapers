@@ -1,5 +1,4 @@
-
-package com.carbonwallpapers;
+package com.carbon.wallpapers;
 
 public class Wallpaper {
 
