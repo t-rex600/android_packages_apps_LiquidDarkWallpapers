@@ -8,6 +8,6 @@
     <string name="config_wallpaper_download_loc"></string>
 
     <!-- url to the wallpaper manifest -->
-    <string name="config_wallpaper_manifest_url">http://www.wallpapers.mattman.org/wallpapers_manfiest.xml</string>
+    <string name="config_wallpaper_manifest_url">http://www.wallpapers.mattman.org/wallpapers_manifest.xml</string>
 
 </resources>
