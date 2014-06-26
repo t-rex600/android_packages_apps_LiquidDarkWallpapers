@@ -22,6 +22,6 @@
     <string name="config_wallpaper_download_loc"></string>
 
     <!-- url to the wallpaper manifest -->
-    <string name="config_wallpaper_manifest_url">https://raw.githubusercontent.com/TeamTREX/Wallpaper/master/wallpapers_manifest.xml</string>
+    <string name="config_wallpaper_manifest_url">https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpapers_manifest.xml</string>
 
 </resources>
