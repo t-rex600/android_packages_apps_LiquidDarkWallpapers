@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
 
-    <category name="CarbonRom" >
+    <category name="TREXRom" >
 
         <wallpaper
-            author="ToxicThunder"
-            url="http://mattman.org/sub/wallpapers/toxicthunder_carbon.jpg" />
-
-    </category>
-
-    <category name="CarbonRom Users" >
+            author="Jori66"
+            thumbUrl="https://raw.githubusercontent.com/TeamTREX/Wallpaper/master/wallpaper_01.jpg"
+            url="https://raw.githubusercontent.com/TeamTREX/Wallpaper/master/wallpaper_01.jpg" />
 
         <wallpaper
-            author="oasad92"
-            url="http://mattman.org/sub/wallpapers/oasad_carbon.jpg" />
+            author="T-REX600"
+            thumbUrl="https://raw.githubusercontent.com/TeamTREX/Wallpaper/master/wallpaper_02.jpg"
+            url="https://raw.githubusercontent.com/TeamTREX/Wallpaper/master/wallpaper_02.jpg" />
 
         <wallpaper
-            author="oasad92"
-            url="http://mattman.org/sub/wallpapers/oasad_carbon_red.jpg" />
+            author="T-REX600"
+            thumbUrl="https://raw.githubusercontent.com/TeamTREX/Wallpaper/master/wallpaper_03.jpg"
+            url="https://raw.githubusercontent.com/TeamTREX/Wallpaper/master/wallpaper_03.jpg" />
 
+        <wallpaper
+            author="T-REX600"
+            thumbUrl="https://raw.githubusercontent.com/TeamTREX/Wallpaper/master/wallpaper_04.jpg"
+            url="https://raw.githubusercontent.com/TeamTREX/Wallpaper/master/wallpaper_04.jpg" />
+
+         <wallpaper
+            author="T-REX600"
+            thumbUrl="https://raw.githubusercontent.com/TeamTREX/Wallpaper/master/wallpaper_05.jpg"
+            url="https://raw.githubusercontent.com/TeamTREX/Wallpaper/master/wallpaper_05.jpg" />  
     </category>
 
 </wallpapers>
