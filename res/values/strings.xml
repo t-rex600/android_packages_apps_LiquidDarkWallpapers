@@ -15,8 +15,8 @@
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <string name="app_name">TREX Wallpapers</string>
-    <string name="title_activity_wallpaper">TREX Wallpapers</string>
+    <string name="app_name">LiquidDark Wallpapers</string>
+    <string name="title_activity_wallpaper">LiquidDark Wallpapers</string>
     <string name="back">Previous</string>
     <string name="next">Next</string>
     <string name="page">Page: </string>
