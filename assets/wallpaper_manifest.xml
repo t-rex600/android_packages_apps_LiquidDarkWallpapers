@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
 
-    <category name="TREXRom" >
-
-        <wallpaper
-            author="Liquid"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_01.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_01.jpg" />
+    <category name="LiquidDark" >
 
         <wallpaper
             author="T-REX600"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_02.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_02.jpg" />
-
-        <wallpaper
-            author="Liquid"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_03.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_03.jpg" />
+            thumbUrl="https://raw.githubusercontent.com/t-rex600/Wallpaper/master/wallpaper_01.jpg"
+            url="https://raw.githubusercontent.com/t-rex600/Wallpaper/master/wallpaper_01.jpg" />
 
         <wallpaper
             author="T-REX600"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_04.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_04.jpg" />
+            thumbUrl="https://raw.githubusercontent.com/t-rex600/Wallpaper/master/wallpaper_02.jpg"
+            url="https://raw.githubusercontent.com/t-rex600/Wallpaper/master/wallpaper_02.jpg" />
+
+        <wallpaper
+            author="T-REX600"
+            thumbUrl="https://raw.githubusercontent.com/t-rex600/Wallpaper/master/wallpaper_03.jpg"
+            url="https://raw.githubusercontent.com/t-rex600/Wallpaper/master/wallpaper_03.jpg" />
+
+        <wallpaper
+            author="T-REX600"
+            thumbUrl="https://raw.githubusercontent.com/t-rex600/Wallpaper/master/wallpaper_04.jpg"
+            url="https://raw.githubusercontent.com/t-rex600/Wallpaper/master/wallpaper_04.jpg" />
 
          <wallpaper
             author="T-REX600"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_05.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_05.jpg" />  
+            thumbUrl="https://raw.githubusercontent.com/t-rex600/Wallpaper/master/wallpaper_05.jpg"
+            url="https://raw.githubusercontent.com/t-rex600/Wallpaper/master/wallpaper_05.jpg" />  
     </category>
 
 </wallpapers>
