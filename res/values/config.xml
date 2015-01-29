@@ -16,7 +16,7 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!-- Where to store the wallpapers (just the folder name) -->
-    <string name="config_wallpaper_sdcard_dl_location">TREX</string>
+    <string name="config_wallpaper_sdcard_dl_location">Wallpaper</string>
 
     <!-- Directory to download wallpapers to on external storage. Leave blank for "/sdcard/" -->
     <string name="config_wallpaper_download_loc"></string>
